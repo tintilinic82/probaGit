@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+
+.body_form {
+	background-color: #1F1F1F;
+	color: white;
+	font-family: verdana;
+	font-size: 10px;
+	margin-left: 10px;
+}
+
+.naslov {
+	color: white;
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.label_div {
+	padding-top: 10px;
+}
+
+.label_style {
+	margin-right: 0.5em;
+	padding-bottom: 2px;
+	display: block
+}
+
+input {
+	width: 125px;
+}
+
+.submit_input {
+	width: 132px;
+}
+
+.p_t10 {
+	padding-top: 10px;
+}
+
+.error {
+	color: red;
+	padding-top: 10px;
+}
+
+.poruka {
+	padding-top: 10px;
+}
